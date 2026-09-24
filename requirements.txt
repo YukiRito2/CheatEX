@@ -1,0 +1,2 @@
+PyQt6>=6.6
+PyGObject>=3.46
